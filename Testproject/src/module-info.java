@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author THES
- *
- */
-module testproject {
-}
